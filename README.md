@@ -6,3 +6,6 @@ Tampilan halaman Register:
 
 Tampilan halaman Home:
 <img width="1920" height="1080" alt="Screenshot 2026-05-29 182315" src="https://github.com/user-attachments/assets/09584aab-dc30-4f82-bfbf-4040c2a0c651" />
+
+wsl:
+<img width="811" height="705" alt="image" src="https://github.com/user-attachments/assets/27f51505-940c-4172-a03a-5651cad150a3" />
